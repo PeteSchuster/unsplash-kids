@@ -1,9 +1,11 @@
 import React, { useEffect, useState } from "react";
 import axios from "axios";
-import "./index.css";
 
-export const Image = ({
-  keyword = "dog",
+import { API_BASE } from "../helpers/config";
+import Image from "./Image";
+
+export const FetchImageById = ({
+  id,
 }) => {
   const [image, setImage] = useState();
   const [loading, setLoading] = useState(true);
@@ -12,20 +14,21 @@ export const Image = ({
     const fetchData = async () => {
       setLoading(true);
       const { data: image } = await axios.get(
-        `https://get-image-from-unsplash.herokuapp.com/image/${keyword}`
+        `${API_BASE}image/${id}`
       );
-      setImage(image.urls.small);
+      setImage(image);
       setLoading(false);
     };
 
     fetchData();
-  }, [keyword]);
+  }, [id]);
 
   return (
-    <div className="App" style={{ backgroundImage: `url(${image})` }}>
+    <>
       {loading && "Loading"}
-    </div>
+      {!loading && <Image image={image} />}
+    </>
   );
 }
 
-export default Image;
+export default FetchImageById;
