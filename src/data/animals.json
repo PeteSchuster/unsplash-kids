@@ -1,207 +1,231 @@
 {
   "results": [
     {
-      "name": "armadillo",
-      "id": "o6yVQhM_-fg"
-    },
-    {
-      "name": "raccoon",
+      "name": "Raccoon",
       "id": "f2Tf9uF1MeQ"
     },
     {
-      "name": "lion",
+      "name": "Lion",
       "id": "UlipBbZpweg"
     },
     {
-      "name": "squirrel",
+      "name": "Squirrel",
       "id": "Tk71SYS8UBY"
     },
     {
-      "name": "llama",
+      "name": "Llama",
       "id": "ZhF-9SKetvs"
     },
     {
-      "name": "turtle",
+      "name": "Turtle",
       "id": "LVnJlyfa7Zk"
     },
     {
-      "name": "seahorse",
+      "name": "Seahorse",
       "id": "mthh1jOGbsY"
     },
     {
-      "name": "caterpillar",
+      "name": "Caterpillar",
       "id": "a_PrJ9Ms8_s"
     },
     {
-      "name": "donkey",
+      "name": "Donkey",
       "id": "Ids_FrpfhEA"
     },
     {
-      "name": "horse",
+      "name": "Horse",
       "id": "7FC4WpyYcfQ"
     },
     {
-      "name": "worm",
-      "id": "wVR3Jhs8BBU"
-    },
-    {
-      "name": "turkey",
+      "name": "Turkey",
       "id": "0n0AHB1fgTQ"
     },
     {
-      "name": "rhinoceros",
+      "name": "Rhinoceros",
       "id": "1xetOxStk_Y"
     },
     {
-      "name": "guinea-pig",
+      "name": "Guinea-pig",
       "id": "9n0QyyKhJYw"
     },
     {
-      "name": "koala",
+      "name": "Koala",
       "id": "EerxztHCjM8"
     },
     {
-      "name": "elephant",
+      "name": "Elephant",
       "id": "QJbyG6O0ick"
     },
     {
-      "name": "snail",
+      "name": "Snail",
       "id": "OxK32aLJXWU"
     },
     {
-      "name": "lobster",
-      "id": "OrTjocYe1b4"
-    },
-    {
-      "name": "sheep",
+      "name": "Sheep",
       "id": "GHOiyov2TSQ"
     },
     {
-      "name": "owl",
+      "name": "Owl",
       "id": "zWA7Obpb4R4"
     },
     {
-      "name": "tiger",
+      "name": "Tiger",
       "id": "YuQgNYku1M8"
     },
     {
-      "name": "eagle",
+      "name": "Eagle",
       "id": "OjQgsR1oyEw"
     },
     {
-      "name": "giraffe",
+      "name": "Giraffe",
       "id": "Wdq1B_wZQUQ"
     },
     {
-      "name": "cow",
+      "name": "Cow",
       "id": "FquDp5N1Gw0"
     },
     {
-      "name": "ostrich",
+      "name": "Rabbit",
+      "id": "KvHT4dltPEQ"
+    },
+    {
+      "name": "Rooster",
+      "id": "JJALrZLy8b0"
+    },
+    {
+      "name": "Bat",
+      "id": "NBEAMs2N47k"
+    },
+    {
+      "name": "Gibbon",
+      "id": "QZv1nBGms9U"
+    },
+    {
+      "name": "Orangutan",
+      "id": "nAzqRaWJdhY"
+    },
+    {
+      "name": "Hippo",
+      "id": "1O1hLL-v7Hc"
+    },
+    {
+      "name": "Walrus",
+      "id": "h13Y8vyIXNU"
+    },
+    {
+      "name": "Penguin",
+      "id": "ErXur1fAhC4"
+    },
+    {
+      "name": "Pig",
+      "id": "b-zyMn_e_R4"
+    },
+    {
+      "name": "Sloth",
+      "id": "GTXvpZ2eTdA"
+    },
+    {
+      "name": "Ostrich",
       "id": "mXucDCP2gmc"
     },
     {
-      "name": "parrot",
+      "name": "Parrot",
       "id": "vIx55PnjL58"
     },
     {
-      "name": "panda",
+      "name": "Panda",
       "id": "_9a-3NO5KJE"
     },
     {
-      "name": "deer",
+      "name": "Deer",
       "id": "favQn8WgRyk"
     },
     {
-      "name": "orca",
-      "id": "DW989jCuk34"
+      "name": "Camel",
+      "id": "YAIGmqV4dFc"
     },
     {
-      "name": "camel",
-      "id": "UQJP4eEqRV0"
+      "name": "Ferret",
+      "id": "FnpFMheGjH0"
     },
     {
-      "name": "ferret",
-      "id": "PzN5QTx59O0"
-    },
-    {
-      "name": "kangaroo",
+      "name": "Kangaroo",
       "id": "2f33ykzzPCU"
     },
     {
-      "name": "fox",
+      "name": "Fox",
       "id": "xUUZcpQlqpM"
     },
     {
-      "name": "porcupine",
+      "name": "Porcupine",
       "id": "mhlMg2dmn1I"
     },
     {
-      "name": "goose",
+      "name": "Goose",
       "id": "OvXyAabxGKA"
     },
     {
-      "name": "gorilla",
+      "name": "Gorilla",
       "id": "XB5E4D-Ipco"
     },
     {
-      "name": "ant",
+      "name": "Ant",
       "id": "XG8eYNYdz54"
     },
     {
-      "name": "opossum",
-      "id": "vHs3gARgwpE"
-    },
-    {
-      "name": "zebra",
+      "name": "Zebra",
       "id": "UgidX4V13Gc"
     },
     {
-      "name": "lizard",
+      "name": "Lizard",
       "id": "9SEhc-MBJvA"
     },
     {
-      "name": "skunk",
-      "id": "7kyEghypC5E"
+      "name": "Skunk",
+      "id": "YoEA2dcDo0g"
     },
     {
-      "name": "bear",
-      "id": "qQWV91TTBrE"
+      "name": "Bear",
+      "id": "Pt3asvL65Mg"
     },
     {
-      "name": "peacock",
+      "name": "Peacock",
       "id": "_7S3tOs424o"
     },
     {
-      "name": "otter",
+      "name": "Otter",
       "id": "8xGNvZVLNCk"
     },
     {
-      "name": "hedgehog",
+      "name": "Hedgehog",
       "id": "C2y9b2eOA1E"
     },
     {
-      "name": "starfish",
+      "name": "Starfish",
       "id": "br-Xdb9KE0Q"
     },
     {
-      "name": "crab",
+      "name": "Crab",
       "id": "olpTAV3SMc8"
     },
     {
-      "name": "duck",
+      "name": "Duck",
       "id": "rN3dqzDrhdk"
     },
     {
-      "name": "sea-lion",
-      "id": "iT8NyoqJDEs"
+      "name": "Sea lion",
+      "id": "ULvxkkJ01Lw"
     },
     {
-      "name": "dog",
+      "name": "Dog",
       "id": "N04FIfHhv_k"
     },
     {
-      "name": "hamster",
+      "name": "Puffin",
+      "id": "4AmyOdXZAQc"
+    },
+    {
+      "name": "Hamster",
       "id": "adK3Vu70DEQ"
     }
   ]

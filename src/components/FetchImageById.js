@@ -5,7 +5,7 @@ import { API_BASE } from "../helpers/config";
 import Image from "./Image";
 
 export const FetchImageById = ({
-  id,
+  data: { id, name },
 }) => {
   const [image, setImage] = useState();
   const [loading, setLoading] = useState(true);
@@ -25,8 +25,8 @@ export const FetchImageById = ({
 
   return (
     <>
-      {loading && "Loading"}
-      {!loading && <Image image={image} />}
+      {loading && <div className="loading">Loading...</div>}
+      {!loading && <Image name={name} image={image} />}
     </>
   );
 }

@@ -26,6 +26,7 @@ export const Images = () => {
   return (
     <div className="images">
       {loading && "Loading"}
+      <h2>{keyword}</h2>
       {!loading && images.map(image => (
         <Image image={image} />
       ))}
